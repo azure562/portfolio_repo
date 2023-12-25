@@ -9,7 +9,7 @@ Create a completely decentralized dapp using web3 tech.
 - Model out the entire tech stack, including smart contracts
 - Each component of the dapp interacts with another to create a cohesive ecosystem
 
-* Metaverse: In the context of the Codecademy course, Metaverse is defined as `a cohesive collection of web3 tech that allows people to work toward an overarching goal`.
+_Metaverse: In the context of the Codecademy course, Metaverse is defined as `a cohesive collection of web3 tech that allows people to work toward an overarching goal`._
 
 ## Tech stack
 
