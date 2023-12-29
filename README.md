@@ -1,4 +1,4 @@
-# Portfolia
+# Portfolio
 
 This repo is a collection of personal projects.
 
