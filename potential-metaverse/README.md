@@ -1,8 +1,10 @@
+## Overview
+
 This is the capstone project of the course **Introduction to Blockchain and Crypto** by Codecademy.
 
 ## Goal
 
-Create a completely decentralized dapp using web3 tech.
+Create a completely decentralized application (dapp) using web3 tech.
 
 ## Objectives
 
@@ -27,3 +29,25 @@ Create a completely decentralized dapp using web3 tech.
 - a NFT collection that serves as a utility token to become a creator on the app and to become a member of the related DAO
 - members of the DAO can vote on proposals that will decide the direction of the platform
 - the web app UI is able to check for both NFT and DAO membership
+
+## Tasks
+
+- [ ] Dapp - Write down the dapp idea.
+
+- [ ] Decentralization - Write down why it would benefit from decentralization.
+
+- [ ] Blockchain - Write down the chosen blockchain and the reasoning behind the choice.
+
+- [ ] Data - Write down the data that will be stored/computed using smart contracts.
+
+- [ ] Pseudocode - Write down the pseudocode of smart contracts and their functionality.
+
+- [ ] Database Schema - Write down a simple database schema of data to store off-chain, and how to store it.
+
+- [ ] Interaction - Write down how to interact with the blockchain data (indexing & querying).
+
+- [ ] Oracles - Decide if any data from oracles is needed, and write down the oracle service to use.
+
+- [ ] File Storage - Decide file storage, and write down which service to use.
+
+- [ ] Frontend Library - Write down the frontend library to use, including the client library for interacting with the chain.
